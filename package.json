@@ -1,0 +1,21 @@
+{
+  "name": "node-with-elastic",
+  "version": "1.0.0",
+  "description": "nodejs + elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --exec npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "welingtoncassis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

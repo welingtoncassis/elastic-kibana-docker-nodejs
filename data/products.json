@@ -1,0 +1,34 @@
+[
+    {
+        "sku": "1",
+        "name": "Sofa de 3 lugares",
+        "categories": [
+            "sofa",
+            "moveis",
+            "sala",
+            "coro"
+        ],
+        "description": "Belo sofá de couro de 3 lugares"
+    },
+    {
+        "sku": "2",
+        "name": "Sofa de 3 lugares",
+        "categories": [
+            "sofa",
+            "moveis",
+            "sala",
+            "couro ecológico"
+        ],
+        "description": "Belo sofá de couro de 2 lugares"
+    },
+    {
+        "sku": "3",
+        "name": "Mesa de jantar redonda de vidro",
+        "categories": [
+            "mesa",
+            "jantar",
+            "vidro"
+        ],
+        "description": "Moderna mesa de 110cm de radio"
+    }
+]
